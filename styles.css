@@ -1,0 +1,9 @@
+#themes {
+    display:flex;
+    justify-content: space-around;
+    margin: 0 1em;
+    padding: 0.5em;
+    border-width: 0.125em;
+    border-style: solid;
+    border-radius: 0.5em;
+}
